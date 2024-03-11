@@ -7,3 +7,5 @@
 4. Dung Nguyen
 5. Vivian Pham
 6. Ben Williams
+
+## Data Model
