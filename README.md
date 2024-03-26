@@ -11,12 +11,12 @@
 5. Ben Williams ([@benwilliams](https://github.com/bendeanwilly))
 
 # Problem Description 
-   We run a emergency healthcare clinic. Our clinic operates providing urgent medical care to patients with a wide range of health concerns. Our clinic offers a variety of services including primary care, urgent care, diagnostic testing, and minor procedures. Patients come to our clinic seeking medical attention with the need for an appointment. In order to efficiently manage patient care and clinic operations, we need a robust relational database that can handle Patient Information, Healthcare Provider, Facility, Insurance, Billing, and more.
+
 
 ## Data Model
    
 ## Data Dictionary 
-
+<img width="622" alt="Screenshot 2024-03-26 at 1 51 09 AM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/c09c5922-cd44-4db1-acdc-257607807d0b">
 ## Queries
 
 ## Database Information
