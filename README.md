@@ -66,7 +66,13 @@ Each Diagnostic Test requires many pieces of Equipment can be used and each piec
 
 <img width="625" alt="Screenshot 2024-03-26 at 10 23 00 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/e3423505-405f-462a-8f56-e3d6ea81fe39">
 
+<img width="536" alt="Screenshot 2024-03-26 at 10 36 52 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/7bddea92-5287-4284-9c27-eb3c456b2665">
 
+<img width="608" alt="Screenshot 2024-03-26 at 10 37 39 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/b9f5e5f8-d345-4e63-857b-edc92bddd9f2">
+
+<img width="604" alt="Screenshot 2024-03-26 at 10 38 34 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/8a2ad2a7-fbfe-40fb-a2c0-c29a1c59815c">
+
+<img width="596" alt="Screenshot 2024-03-26 at 10 38 58 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/0b21e25e-95ec-4707-a0e4-decaab21b477">
 
 
 ## Database Information
