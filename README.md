@@ -94,11 +94,11 @@ Justification: The manager will gain valuable information to the frequently pres
 
 <img width="604" alt="Screenshot 2024-03-26 at 10 38 34 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/8a2ad2a7-fbfe-40fb-a2c0-c29a1c59815c">
 
-Justification: This helps a manager identify which healthcare providers who have a high volume of appointments in a specific time period. The manager can then adjust schedules and allocate resources effectively to the healthcare providers who are more actively working at the clinic. The manager can all provide additional staff benefits and support to the providers who work more closely with the patients.
+Justification: A manager will be able to populate data that focuses on specific types of medications and focus on treatment towards that. Medication management will be a priority for the Manager as well as providing valuable data to improve the clinic’s overall quality.
 
 <img width="596" alt="Screenshot 2024-03-26 at 10 38 58 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/0b21e25e-95ec-4707-a0e4-decaab21b477">
 
-Justification: A manager will be able to populate data that focuses on specific types of medications and focus on treatment towards that. Medication management will be a priority for the Manager as well as providing valuable data to improve the clinic’s overall quality.
+Justification: The manager will be able to assess which patients do not have appointments to then plan on ways to, of course, prioritize the patients healthcare needs and then optimize clinic resources, maximize revenue, provide proper quality healthcare services. 
 
 
 
