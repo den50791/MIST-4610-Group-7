@@ -12,6 +12,7 @@
 
 # Problem Description 
 
+MIST 4610 students created a relational database that described a healthcare clinic business. The clinic provides several services, including Emergency Medical Care, Diagnostic Services, urgent care, and prescription services. The Clinic needed to capture information about each patient, the facilities, billing information, appointments, providers, equipment, and maintenance history of the equipment. The goal is to maintain relevant data on patients that is important for healthcare providers and to efficiently track queues for appointment making. 
 
 ## Data Model
 
