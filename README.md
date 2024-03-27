@@ -64,6 +64,9 @@ Each Diagnostic Test requires many pieces of Equipment can be used and each piec
 
 ## Queries
 
+<img width="623" alt="Screenshot 2024-03-26 at 11 15 24 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/cdd4fae9-ca55-4e30-8885-881979ab4850">
+<img width="618" alt="Screenshot 2024-03-26 at 11 15 56 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/bf50df3d-f4f1-44f3-8a31-8b9e38685e15">
+
 <img width="527" alt="Screenshot 2024-03-26 at 10 20 27 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/48b0a5db-5199-4ac6-8bc4-920f86d27ea8">
 
 Justification: By gaining insights into the gender distribution of their patients, the manager of the clinic can gain valuable information to optimize services, and provide data for research and health patterns.
@@ -104,6 +107,6 @@ Justification: A manager will be able to populate data that focuses on specific 
 
 Justification: The manager will be able to assess which patients do not have appointments to then plan on ways to, of course, prioritize the patients healthcare needs and then optimize clinic resources, maximize revenue, provide proper quality healthcare services. 
 
-
-
 ## Database Information
+Name of the database: ns_Sp24_47114_Group7
+
