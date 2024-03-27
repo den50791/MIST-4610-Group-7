@@ -92,6 +92,10 @@ Justification: A manager will be able to facilitate appointments and scheduling 
 
 Justification: The manager will gain valuable information to the frequently prescribed medication in which the manager and healthcare providers can identify patterns and diagnose their patients properly. In terms of medication management, the manager can allocate the resources effectively when managing inventory.
 
+<img width="606" alt="Screenshot 2024-03-26 at 11 11 06 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/c17960f8-a1c6-4acd-b638-b5943e33db9f">
+
+Justification: In this query, the manager recognizes a pattern of people searching for young, experienced annual check-up providers. This led to a need for REGEXP to limit results based on specific providerID patterns of smaller ID numbers and a COUNT(*) function that captures providers with multiple past experiences. 
+
 <img width="604" alt="Screenshot 2024-03-26 at 10 38 34 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/8a2ad2a7-fbfe-40fb-a2c0-c29a1c59815c">
 
 Justification: A manager will be able to populate data that focuses on specific types of medications and focus on treatment towards that. Medication management will be a priority for the Manager as well as providing valuable data to improve the clinic’s overall quality.
