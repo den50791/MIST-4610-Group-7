@@ -15,7 +15,7 @@
 
 ## Data Model
 
-<img width="813" alt="Screenshot 2024-03-26 at 1 53 54 AM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/27c21c52-29b9-4582-98ed-cb1811c1911e">
+<img width="605" alt="Screenshot 2024-03-26 at 11 25 08 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/01ac4072-20ec-43d6-8001-dff6af3b4870">
 
 Explanation of data model:
 
