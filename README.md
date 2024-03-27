@@ -65,7 +65,7 @@ Each Diagnostic Test requires many pieces of Equipment can be used and each piec
 
 ## Queries
 
-<img width="623" alt="Screenshot 2024-03-26 at 11 15 24 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/cdd4fae9-ca55-4e30-8885-881979ab4850">
+<img width="618" alt="Screenshot 2024-03-26 at 11 29 11 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/7f07582f-f4fb-48a1-b888-9b1bc5e061da">
 <img width="618" alt="Screenshot 2024-03-26 at 11 15 56 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/bf50df3d-f4f1-44f3-8a31-8b9e38685e15">
 
 <img width="527" alt="Screenshot 2024-03-26 at 10 20 27 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/48b0a5db-5199-4ac6-8bc4-920f86d27ea8">
@@ -96,7 +96,7 @@ Justification: A manager will be able to facilitate appointments and scheduling 
 
 Justification: The manager will gain valuable information to the frequently prescribed medication in which the manager and healthcare providers can identify patterns and diagnose their patients properly. In terms of medication management, the manager can allocate the resources effectively when managing inventory.
 
-<img width="606" alt="Screenshot 2024-03-26 at 11 11 06 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/c17960f8-a1c6-4acd-b638-b5943e33db9f">
+<img width="605" alt="Screenshot 2024-03-26 at 11 25 08 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/a5d8f10b-e183-4304-ae50-73d10b059f28">
 
 Justification: In this query, the manager recognizes a pattern of people searching for young, experienced annual check-up providers. This led to a need for REGEXP to limit results based on specific providerID patterns of smaller ID numbers and a COUNT(*) function that captures providers with multiple past experiences. 
 
