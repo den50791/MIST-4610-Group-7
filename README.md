@@ -62,6 +62,7 @@ Each Diagnostic Test requires many pieces of Equipment can be used and each piec
 
 <img width="677" alt="Screenshot 2024-03-26 at 10 50 24 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/26ef5ecc-373d-40ce-9870-8669d9f83a38">
 
+
 ## Queries
 
 <img width="623" alt="Screenshot 2024-03-26 at 11 15 24 PM" src="https://github.com/den50791/MIST-4610-Group-7/assets/163002845/cdd4fae9-ca55-4e30-8885-881979ab4850">
